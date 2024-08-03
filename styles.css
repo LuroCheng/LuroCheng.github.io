@@ -1,0 +1,88 @@
+#top-navigation{
+  background-color: white;
+}
+
+.navbar-brand{
+  font-weight: bold;
+}
+
+#introduction{
+  padding: 5% 0 5% 0;
+  font-size: medium;
+  line-height: 10;
+  color: #32beff;
+}
+
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+}
+
+.fa-file {
+  color: white;
+}
+
+#download-message{
+  color: white;
+}
+
+.btn:hover{
+  box-shadow: 0 0 10px orange;
+}
+
+#experience-description{
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 5%;
+  color: #32beff;
+  padding: 1% 3%;
+}
+
+#experience-logo{
+  padding: 0 3%;
+}
+
+.list-group{
+  color: black;
+}
+
+h2{
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  padding: 2% 0;
+  background-color: #32beff;
+}
+
+.fa{
+  color: #32beff;
+}
+
+.card{
+  padding: 1%;
+  margin: 5% 1%;
+  border-color: white;
+}
+
+.card:hover{
+  box-shadow: 0 0 10px orange;
+  background-color: orange;
+}
+
+#pictures{
+  text-align: center;
+}
+
+h5{
+  margin: 2% 0;
+  color: #32beff;
+  font-size: 30px;
+}
+
+#end{
+  background-color: #32beff;
+  text-align: center;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  margin-top: 5%;
+  padding: 5% 0;
+}
